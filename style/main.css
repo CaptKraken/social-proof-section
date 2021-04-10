@@ -40,6 +40,7 @@ body {
 .header__content--large {
   color: #502050;
   margin: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 .header__content--subtag {
