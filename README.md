@@ -36,7 +36,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-with-html-scss-css-flexbox-2qoUBBQ6v)
+- Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-html-scss-flexbox-grid-mobilefirst-CGz0YN4SL)
 - Live Site URL: [Live Demo](https://captkraken.github.io/social-proof-section)
 
 ## My process
